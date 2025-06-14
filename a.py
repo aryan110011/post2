@@ -2,7 +2,7 @@ import requests
 import json
 
 # 🔧 API server ka URL
-SERVER_URL = "fi11.bot-hosting.net:20295/api/start"  # <-- yaha apna IP daalo
+SERVER_URL = "http://fi11.bot-hosting.net:20295/api/start"  # <-- yaha apna IP daalo
 
 # 📥 User se inputs lo
 username = input("👤 Enter your username: ")
